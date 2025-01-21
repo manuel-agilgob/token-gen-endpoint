@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "token-gen-endpoint",
+  "version": "1.0.0",
+  "description": "Repo para generar los tokens de prueba para ejecutar pruebas de cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuel-agilgob/token-gen-endpoint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/manuel-agilgob/token-gen-endpoint/issues"
+  },
+  "homepage": "https://github.com/manuel-agilgob/token-gen-endpoint#readme"
+}
